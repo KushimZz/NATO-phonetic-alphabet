@@ -1,4 +1,3 @@
-package udemy.ControlFlow;
 import java.util.Scanner;
 public class NATOalphabet {
     public static void main(String[] args) {
