@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class NATOalphabet {
     public static void main(String[] args) {
 
-        System.out.println("Write your name(Please use English letters):");
+        System.out.println("Write your name(Please use English characters):");
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
 
